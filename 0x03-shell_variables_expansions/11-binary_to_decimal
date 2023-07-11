@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%d\n" $BINARY
+print "%d\n" $BINARY
